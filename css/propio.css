@@ -1,0 +1,18 @@
+#pintar{  
+      background-color:black; 
+      color: white;
+
+}
+
+ body{
+    font-weight: bold;
+ }
+
+#footer {
+   height: 330px;
+   background-color: black;
+   margin-top: 200px;
+   position: relative;
+   color : white;
+}
+
